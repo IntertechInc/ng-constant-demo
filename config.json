@@ -1,0 +1,7 @@
+{
+  "name": "myapp.config",
+  "constants": {
+    "BASE_SERVICE_URL": "#{BaseServiceUrl}",
+    "MY_CUSTOM_CONSTANT": "#{MyCustomConstantValue}"
+  }
+}
